@@ -1,1 +1,1 @@
-These are python files for the automation of a ground station.
+These repository contains the files to process data aquired from an automated GroundStation with Python and Gnu Radio. Furthermore it contains R Files which analyzes scintillation data collected with log files from a GPStation-6.
